@@ -353,3 +353,8 @@ section .home{
   background: linear-gradient(#FFA400,#222);
   color: #fff;
 }
+
+.footer ul li a{
+  font-weight: light;
+  color: grey;
+}
